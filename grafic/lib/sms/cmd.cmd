@@ -1,0 +1,1 @@
+cmd /k &cd C:\AppServ\www\tesis\grafic\lib\sms& au3 entel.au3 2323 "hahhhsh"

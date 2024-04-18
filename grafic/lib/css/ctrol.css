@@ -1,0 +1,101 @@
+
+
+/*${demo.css}*/
+
+table {
+  border: #FFF000 3px solid;
+  border-collapse: collapse;
+}
+
+
+.barractrlv {
+	background:#999;
+	width: 100%;
+	height: 90px;
+	text-align: center;
+	float: left;
+	/*display: flex;*/
+}
+
+.barractrlt {
+	background:#999;
+	width: 100%;
+	height: 90px;
+	text-align: center;
+	/*float: left;*/
+	/*display: flex;*/
+}
+
+
+
+
+
+.barrat {
+	background:#999;
+	width: 100%;
+	height: 90px;
+	text-align: center;
+	/*display: flex;*/
+}
+
+.barrav {
+	background:#999;
+	width: 100%;
+	height: 90px;
+	text-align: center;
+	/*display: flex;*/
+}
+
+.varv{
+	font-family: Arial Black;
+	color: white;
+	font-size: 40px;
+	
+}
+
+
+
+#tt{
+	font-family: Arial Black;
+	color: white;
+	font-size: 25px;
+	width: 50%;
+	float: right;
+	text-align: left;
+}
+
+#tv{
+	font-family: Arial Black;
+	color: white;
+	font-size: 25px;
+	width: 50%;
+	float: right;
+	text-align: left;
+}
+
+.alav{
+	font-family: Arial;
+	color: black;
+	font-size: 20px;
+	width: 100%;
+}
+
+
+
+.vart{
+	font-family: Arial Black;
+	color: white;
+	font-size: 40px;
+	
+
+}
+
+
+.alat{
+	font-family: Arial;
+	color: black;
+	font-size: 20px;
+	width: 100%;
+}
+
+

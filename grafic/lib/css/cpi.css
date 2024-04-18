@@ -1,0 +1,27 @@
+
+
+.barra {
+	background:#999;
+	height: auto;
+	text-align: center;
+	margin: 10px;
+	/*display: flex;*/
+}
+
+.var{
+	/*font-family: Arial Black;*/
+	color: #FFFFFF;
+	font-size: 40px;
+	line-height: 50px;
+	padding: 2px;
+	margin: 2px;
+}
+
+.ala{
+	font-family: Arial;
+	color: black;
+	font-size: 20px;
+	line-height: 50px;
+	padding: 2px;
+	margin: 2px;
+}

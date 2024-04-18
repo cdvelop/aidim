@@ -1,0 +1,1 @@
+cmd /k cd C:\AppServ\www\tesis\grafic\lib\sms\entel.exe +2323323 tessssss

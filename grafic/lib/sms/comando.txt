@@ -1,0 +1,13 @@
+AutoIt3_x64.exe entel.au3 123
+
+
+
+C:/AppServ/www/tesis/grafic/lib/autoit/AutoIt3_x64.exe entel.au3 +27627637263 "p
+uta la wea"
+
+
+
+
+
+
+
